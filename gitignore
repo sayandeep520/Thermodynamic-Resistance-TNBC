@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large data files specific to this project
+*.h5ad
+*.tar
+*.gz
+
+# Google Drive specific
+.shortcut-targets-by-id/
+.Trash-0/
+
+# Other common ignored files
+.DS_Store
+.env
+.vscode/

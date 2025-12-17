@@ -1,0 +1,12 @@
+scanpy
+pandas
+numpy
+matplotlib
+searn
+mygene
+lifelines
+scipy
+anndata
+tqdm
+igraph
+leidenalg
