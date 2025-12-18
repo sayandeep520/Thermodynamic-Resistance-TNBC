@@ -287,9 +287,3 @@ This repository is distributed under the **MIT License**. See `LICENSE` for full
 ## Final notes
 
 * The master notebook is the canonical source of analysis logic and parameters. When in doubt, follow the notebook cells in order.
-* If you would like any of the following prepared as ready-to-paste files, I can generate them for you:
-
-  * `requirements-pinned.txt` with exact package versions,
-  * `environment.yml` for conda reproducibility,
-  * `run_all.sh` or `run_all.py` to regenerate all figures headless,
-  * unit tests for critical functions in `physics_metrics.py`.
